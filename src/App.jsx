@@ -21,7 +21,7 @@ function App() {
   }
   return (
     <div className='container'>
-      <div className="app-container"> 
+      <div className="app-container "> 
         <h1 className='text-center text-white'>
           Counter App
         </h1>
