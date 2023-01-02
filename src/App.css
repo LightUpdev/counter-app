@@ -8,9 +8,7 @@
   margin-right: auto;
   border-radius: 20px;
   background:orangered;
-  justify-content: center;
-  position: relative;
-  top: 18rem;
+  justify-content: center; 
 }
 .count-btn{
     text-transform: capitalize;
