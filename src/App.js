@@ -1,5 +1,4 @@
 import './App.css';
-import "bootstrap/dist/css/bootstrap.css"
 import Button from './Button';
 import { useState } from 'react';
 
